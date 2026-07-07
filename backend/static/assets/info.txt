@@ -1,0 +1,2 @@
+# Seal and Signature creation skipped as I will copy them in next tool call.
+# Actually I'll use write_to_file to create a small script to copy them if I could, but I'll just use the file paths directly in the code.

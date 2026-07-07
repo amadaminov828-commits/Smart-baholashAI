@@ -1,0 +1,73 @@
+Analyzing the latest template (middle section)...
+
+=== PARAGRAPHS 80 TO 150 ===
+Baholash ob’yektining ({modeli} rusumli transport vositasi) identifikatsiya raqami (VIN-kod), chiqarilgan yili, butuvchi qismlari (komplektatsiyasi) va texnik-fizik holati tahlil qilingan. Ob’yektning bosib o‘tgan masofasi (bosib o‘tgan masofa) va eskirish darajasi qayd etilgan. 
+IX-bo‘lim: «Baholash yondashuvlari va usullarining tanlanishi va qo‘llanilishi» 
+Tanlangan yondashuvlar va usullarning qisqacha tavsifi, ularni tanlash yoki rad etish asoslari, hisob-kitob jarayonlari keltirilgan. 
+X-bo‘lim: «Baholash ob’yektining yakuniy qiymatini aniqlash» 
+Turli yondashuvlar asosida aniqlangan qiymatlarni muvofiqlashtirish tartibi, tafovut tahlili, tanlangan usullarni asoslash va yakuniy bozor qiymati xulosasi keltirilgan. 
+XI-bo‘lim: «Ilova»
+Baholovchi tashkilotning huquqiy va malaka hujjatlari (a’zolik sertifikati, baholovchi malaka sertifikati, sug‘urta polisi), hisobot tayyorlashda foydalanilgan hujjatlar, ob’yekt fotosuratlari va boshqa zarur materiallar ilova qilingan. 
+IV. KIRISH.
+Ushbu baholash to‘g‘risidagi hisobotning maqsadi – {buyurtmachi} balansida bo‘lgan, Davlat raqamli belgisi {davlat_raqami} bo‘lgan, {ishlab_chiqarilgan_yili} yilda ishlab chiqarilgan «{modeli}» rusumli avtotransport vositasining bozor qiymatini aniqlashdan iboratdir.
+Baholash ishlari "Aksiyadorlik jamiyati Kuzatuv kengashi tomonidan mulkni sotish bo‘yicha qaror qabul qilish" maqsadida amalga oshirilgan bo‘lib, buyurtmachiga tegishli mol-mulkni xolisona baholash asosida, baholash sanasiga ko‘ra uning bozor qiymatining eng ehtimoliy miqdorini aniqlashga qaratilgan.
+Baholash ob’yektining o‘ziga xos xususiyatlari, baholashning maqsadi hamda baholash natijasidan foydalanish mo‘ljali – ob’yekt qiymatini baholashda qo‘llaniladigan atama va tushunchalarni, axborot manbalariga qo‘yiladigan talablarni, baholash jarayonini, baholash yondashuvlari va usullarini, shuningdek baholash natijalarini rasmiylashtirish tartibini belgilaydigan norma va qoidalarga muvofiq keladi.
+Shuningdek, ushbu baholash "O‘zbekiston Respublikasining yagona milliy baholash standartlari" (YAMBS) talablariga, xususan, 15-son MBS "Transport vositalari qiymatini baholash" bo‘limiga hamda mazkur standartni qo‘llash metodikasiga asoslanib amalga oshirildi.
+IV.1. Atama va ta’riflar. 
+Baholash to‘g‘risidagi mazkur hisobotda O‘zbekiston Respublikasining Yagona Milliy Baholash Standartlari (YAMBS), xususan, 15-son MBS talablariga muvofiq quyidagi atama va ta’riflardan foydalanildi:
+Aynan bir xil ob’yekt – baholanayotgan ob’yekt bilan bir xil modeldagi (modifikatsiyadagi) ob’yekt bo‘lib, uning standart (zavoddagi) konstruksiyasi, jihozlanishi, parametrlari va qo‘llaniladigan materiallari bo‘yicha baholash ob’yektidan biror-bir farqlanishlari mavjud bo‘lmagan ob’yekt.
+Almashtirish qiymati – zamonaviy materiallar va texnologiyalardan foydalangan holda, foydaliligi baholash ob’yekti bilan teng bo‘lgan yangi ob’yektni yaratish uchun sarflangan xarajatlar miqdori (baholash sanasi holatiga amalda bo‘lgan bozor narxlarida).
+Analog (Analog-ob’yekt) – asosiy iqtisodiy, fizik, texnik va boshqa tavsiflarga ko‘ra baholash ob’yektiga o‘xshash, uning raqobat bozorida tuzilgan bitim yoki taklifning narxi haqida ma’lumot mavjud bo‘lgan boshqa ob’yekt.
+Baholanayotgan ob’yektning ekspozisiyasi davri – baholanayotgan ob’yekt ochiq bozorga (ommaviy oferta) taqdim etilgan kundan boshlab u bilan bitim tuzilgan sanagacha bo‘lgan vaqt davri.
+Baholashga oid vazifa – baholash buyurtmachisi va baholovchi tashkilot o‘rtasida yozma shaklda tuzilgan, baholash ob’yektini baholash bo‘yicha ko‘rsatiladigan xizmatlar shartlari hamda buyurtmachi tomonidan baholash uchun baholovchi tashkilotga taqdim etilishi kerak bo‘lgan dastlabki ma’lumotlarni o‘z ichiga olgan hujjat.
+Baholash yondashuvi – bir yoki bir nechta baholash usullaridan foydalangan holda baholash ob’yektining qiymatini aniqlash.
+Baholash maqsadi – baholash vazifasida ko‘rsatilgan va baholash ob’yektining qiymatini (bozor yoki bozornikidan farqlanuvchi) aniqlash zarurati paydo bo‘lgan sabablarni aks ettiruvchi baholash natijasidan foydalanish maqsadi.
+Baholash ob’yekti – O‘zbekiston Respublikasining “Baholash faoliyati to‘g‘risida”gi Qonunida baholash ob’yektlari jumlasiga kiritilgan, qonunchilikda fuqarolik muomalasida bo‘lishi mumkinligi belgilangan fuqarolik huquqlari ob’yektlari.
+Baholash ob’yektining yakuniy qiymati – baholovchi tomonidan baholashning turli yondashuvlari va usullaridan foydalangan holda baholash ob’yekti qiymatini hisoblash natijalarini umumlashtirish natijasida olingan eng ehtimolli qiymat.
+Baholash usuli – baholovchi tomonidan baholanayotgan ob’yektning qiymatini aniqlash uchun qo‘llaniladigan jarayon.
+Baholash sanasi – baholash ob’yektining qiymati aniqlangan sana.
+Baholash to‘g‘risidagi hisobot – baholovchi tomonidan YAMBS talablariga muvofiq tuzilgan va baholashga oid vazifaga muvofiq to‘plangan ma’lumotlar, o‘tkazilgan tahlil va hisob-kitoblar asosida shakllantirilgan, baholash ob’yektining yakuniy qiymati to‘g‘risida baholovchining professional fikrini o‘z ichiga olgan hujjat.
+Baholash to‘g‘risidagi hisobotning ishonchliligini ekspertizadan o‘tkazish (baholash ekspertizasi) – baholash faoliyati to‘g‘risidagi qonunchilik hujjatlariga muvofiq va ekspertiza buyurtmachisi bilan tuzilgan shartnoma asosida, baholovchi tashkilot tomonidan baholash ob’yektini takroriy baholashdan o‘tkazmasdan, baholash to‘g‘risidagi hisobotning ishonchliligini (haqqoniyligini) tekshiruvdan o‘tkazish.
+Baholovchi – baholash faoliyati to‘g‘risidagi qonunchilik hujjatlariga muvofiq vakolatli organ tomonidan berilgan baholovchining malaka sertifikatiga ega bo‘lgan jismoniy shaxs.
+Baholovchi tashkilot – baholash faoliyatini amalga oshiruvchi yuridik shaxs.
+Baholovchi tashkilotlarning professional jamoat birlashmalari – kamida ellikta baholovchi tashkilotning a’zoligiga asoslangan, baholovchilarning professional darajasini oshirishga va saqlab turishga ko‘maklashish, ularning professional manfaatlarini himoya qilish maqsadida faoliyat yurituvchi nodavlat notijorat tashkilot.
+Birlashmalarning professional jamoat – baholovchilarning professional darajasini oshirishga va saqlab turishga ko‘maklashish, ularning professional manfaatlarini himoya qilish, shu jumladan sudlarda himoya qilish maqsadida faoliyat yurituvchi nodavlat notijorat tashkilot.
+Bosib o‘tilgan masofa – transport vositasi tomonidan muayyan vaqt ichida bosib o‘tilgan masofaning kilometrlardagi miqdori.
+Butlovchi qismlar – transport vositasi konstruksiyasiga kiradigan agregatlar, uzellar, detallar.
+Buyurtmachi – baholashni o‘tkazish uchun baholovchi tashkilot bilan shartnoma tuzgan shaxs.
+Vazn koeffisiyenti – baholash ob’yektining yakuniy qiymati haqida xulosani shakllantirish jarayonida muayyan baholash qiymati ko‘rsatkichiga ishonch darajasi.
+Yengil avtomobil – yo‘lovchilarni tashish uchun mo‘ljallangan va haydovchi o‘rindig‘ini hisobga olmaganda 8 tadan ortiq bo‘lmagan o‘rindiqqa ega transport vositasi.
+Jamlangan eskirish – jismoniy eskirish, shuningdek funksional va iqtisodiy (tashqi) eskirish turlari ta’sirida transport vositasining texnik-iqtisodiy tavsiflarini yo‘qotishi bilan birga kechadigan qadrsizlanishi.
+Jismoniy eskirish – foydalanilishi davomida ishlab chiqarish omillari ta’sirida baholash ob’yekti tavsiflarining tabiiy yomonlashuvi, shuningdek avariyalar, tabiiy ofatlar va boshqalar natijasida yomonlashuvi oqibatida transport vositalari qiymatining pasayishi.
+Identifikatsiya raqami (vehicle identification number) (VIN) – ishlab chiqaruvchi zavod tomonidan transport vositasiga beriladigan noyob raqam.
+Qiymat (Baholash ob’yektining qiymati) – bozor ishtirokchilari yoki aniq shaxslar uchun baholash ob’yekti bahosining pul shaklida ifodalangan, ma’lum bir sanaga aniqlangan, bitimning haqiqiy narxini ko‘rsatmaydigan o‘lchov.
+Majbur – baholovchining muayyan talabni so‘zsiz bajarishga qaratilgan majburiyatini anglatadi.
+Mumkin (ixtiyoriy) – baholovchi tomonidan o‘z vakolati doirasida ko‘rib chiqishi mumkin bo‘lgan harakatlar va jarayonlarni anglatadi.
+Narx – aktiv uchun so‘ralgan, taklif qilingan yoki to‘langan, uning qiymatidan farq qilishi mumkin bo‘lgan pul yoki boshqa to‘lov.
+Nuqson – mahsulotning me’yoriy-texnik hujjatlari talablariga mos kelmasligi.
+Salmoqli (ahamiyatli yoki muhim) – baholash oid vazifa nuqtai nazaridan baholash jihatlarining ahamiyatliligi va qo‘llanilishi, ularning baholashga hamda baholash foydalanuvchilarining iqtisodiy yoki boshqa qarorlariga ta’siri.
+Seriyali komplektatsiya (butlanma) (seriyali uskunalar) – transport vositasini ishlab chiqaruvchi zavod tomonidan ushbu modifikatsiyadagi (seriyadagi) barcha transport vositalariga majburiy tartibda o‘rnatiladigan uskunalar.
+Ta’mirlash materiallari – ta’mirlashda ishlatiladigan asosiy va yordamchi materiallar.
+Tannarx – tovar, ishlar yoki xizmatlarni xarid qilish, yaratish, ishlab chiqarish va sotishga doir xarajatlar yig‘indisi.
+Tashqi bo‘yoq – transport vositasining tashqi yuzalarini bo‘yash.
+Tashqi eskirish – transport vositalariga iste’mol talabiga ta’sir ko‘rsatuvchi tashqi omillar (iqtisodiy, ekologik va boshqa) o‘zgarishi oqibatida ushbu transport vositalari qiymatining pasayishi.
+Tiklovchi (qayta tiklash) ta’mirlash – bu transport vositasining shikastlanishdan oldin darhol ega bo‘lgan texnik xususiyatlarini va iste’molchi xususiyatlarini tiklash uchun bajarilishi kerak bo‘lgan ishlar to‘plami.
+Tiklovchi ta’mirlash qiymati – shikastlangan transport vositasini ta’mirlash, transport vositasini ishlab chiqaruvchi zavodning me’yoriy-texnik hujjatlarida nazarda tutilgan, transport vositasining bevosita shikastlanishdan oldin ega bo‘lgan ekspluatasion xususiyatlari va iste’mol sifatini tiklash uchun zarur bo‘lgan xarajatlar (shu jumladan ish, ehtiyot qismlar va materiallar sarfi) miqdori.
+Tiklash qiymati – bir xil materiallar va texnologiyalardan foydalangan holda, baholash ob’yekti bilan bir xil bo‘lgan yangi ob’yektni yaratish uchun sarflangan xarajatlar miqdori (baholash sanasi holatiga amalda bo‘lgan bozor narxlarida).
+Tovar qiymatining yo‘qolishi (TQY) – nuqsonlar (shikastlar) yoki ularni bartaraf etish izlari mavjudligi yoki nuqsonlar (shikastlar) bartaraf etilganligi to‘g‘risida ishonchli ma’lumotlar mavjudligi sababli transport vositasining iste’mol xususiyatlari yomonlashishi natijasida transport vositasi qiymatining pasayishi.
+Transport vositasi – yo‘lovchilarning, bagajning, yuk bagajining, yuklarning, pochta va kurerlik jo‘natmalarining yoki maxsus ishlarni amalga oshirish uchun uskunalarning yo‘llarda harakatlanishi yoki tashilishi uchun mo‘ljallangan qurilma.
+Transport vositasini ko‘zdan kechirish – transport vositasini identifikatsiya qilish, uning ishlash layoqatini aniqlash, shikastlar yoki nuqsonlar, ta’mir izlarini aniqlash bilan bog‘liq tartib-taomil.
+To‘liq bo‘yoq – transport vositasining tashqi va ichki yuzalarini bo‘yash.
+Funksional eskirish – ishlab chiqarishning arzonlashishi yoki yangilariga nisbatan ishlab chiqarish unumdorligi pastroqligi sababli transport vositalarining iste’mol qiymatining qisman yo‘qotilishi.
+Xarajatlar – tovar, ishlar yoki xizmatlarni yaratish yoki ishlab chiqarish uchun talab qilinadigan resurslar miqdorining puldagi ifodasi.
+Xronologik yosh – baholash ob’yekti ishlab chiqarilgan vaqtdan boshlab baholash sanasigacha o‘tgan vaqt (yillar) miqdori.
+Cheklovchi shartlar – buyurtmachi yoki baholovchi tomonidan yoxud qonunchilikda baholashga qo‘yilgan cheklovlar.
+Shikastlanish – me’yoriy-texnik hujjatlarda belgilangan darajadan oshib ketadigan tashqi ta’sirlar natijasida ob’yektning sozligi buzilishi.
+Eskirish – jismoniy eskirish, shuningdek funksional (ma’naviy) va iqtisodiy (tashqi) eskirish turlari ta’sirida transport vositalarining texnik-iqtisodiy tavsiflarini yo‘qotishi bilan birga kechadigan qadrsizlanishi.
+Ekspluatasion eskirish – transport vositasi va uning elementlarining texnik holatini tavsiflovchi, transport vositasini ekspluatatsiya qilish natijasida erishilgan jismoniy qarishning miqdoriy ko‘rsatkichi (foizlarda).
+Yashirin nuqson – transport vositasini ko‘zdan kechirish chog‘ida aniqlab bo‘lmaydigan nuqson bo‘lib, uni identifikatsiyalash uchun qism, uzel yoki agregatni qo‘shimcha tekshiruvdan o‘tkazish zarur.
+Qisqartmalar:
+YAIM – yalpi ichki mahsulot.
+YAXM – yalpi hududiy mahsulot.
+MHM – moliyaviy hisobot ma’lumotlari.
+INI – iste’mol narxlari indeksi.

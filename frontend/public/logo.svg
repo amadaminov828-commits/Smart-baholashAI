@@ -1,0 +1,33 @@
+<svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background Circle -->
+  <circle cx="100" cy="100" r="95" fill="#0D1B2A" stroke="#1B263B" stroke-width="2"/>
+  
+  <!-- House Roof & Car Composite Icon -->
+  <g transform="translate(45, 45) scale(1.1)">
+    <!-- House part -->
+    <path d="M10 40L50 10L90 40V70H10V40Z" fill="url(#grad1)" opacity="0.8"/>
+    <!-- Car part -->
+    <path d="M25 60C25 55 30 50 40 48L60 48C70 50 75 55 75 60V68H25V60Z" fill="url(#grad2)"/>
+    <!-- Checkmark / Arrow -->
+    <path d="M40 75L60 90L100 30" stroke="#4ADE80" stroke-width="12" stroke-linecap="round" stroke-linejoin="round" shadow="0 0 10px #4ADE80"/>
+  </g>
+
+  <!-- Circular Text -->
+  <defs>
+    <path id="circlePath" d="M 100, 100 m -75, 0 a 75,75 0 1,0 150,0 a 75,75 0 1,0 -150,0" />
+    <linearGradient id="grad1" x1="10" y1="10" x2="90" y2="70" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#3A86FF"/>
+      <stop offset="1" stop-color="#4ADE80"/>
+    </linearGradient>
+    <linearGradient id="grad2" x1="25" y1="48" x2="75" y2="68" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#4895EF"/>
+      <stop offset="1" stop-color="#4CC9F0"/>
+    </linearGradient>
+  </defs>
+  
+  <text fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="900" letter-spacing="4">
+    <textPath xlink:href="#circlePath" startOffset="50%" text-anchor="middle">
+      SMART BAHOLASH
+    </textPath>
+  </text>
+</svg>

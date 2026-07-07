@@ -1,0 +1,51 @@
+Analyzing the latest template...
+
+--- Template: Mening Shablonim (00:15:26) (ID: 58) ---
+Path: C:\Users\Asus\Desktop\antigravity\backend\media\templates\Professional_shablon_mashina_ty9YXOb.docx
+
+=== FIRST 2000 CHARACTERS ===
+
+
+
+{hisobot_sanasi} tayyorlangan va shu kunda qaydlar kitobida 
+№ {hisobot_raqami} raqam bilan ro‘yxatga olingan avtotransport vositasini
+BAHOLASH TO‘GʻRISIDAGI 
+HISOBOT
+Qo‘qon shahar – 2025 yil.
+MUNDARIJA.
+IV. KIRISH.	7
+IV.1. Atama va ta’riflar.	7
+IV.2. Baholash jarayoni bosqichlari va izchilligi.	11
+IV.3. Baholash sifati to‘g‘risida bayonot.	13
+IV.4. Foydalanilgan axborotlar ro‘yxati.	14
+V. Baholashga oid vazifa, asosiy fakt va xulosalar.	14
+V.1. Baholanayotgan ob’yektning nomi va tavsifi.	14
+V.2. Baholanayotgan mulkiy huquqlar.	14
+V.3. Baholashni amalga oshirish uchun asos.	14
+V.4. Baholovchi tashkilot va baholovchi.	15
+V.5. Buyurtmachi va mulk egasi haqida ma’lumot.	15
+V.6. Baholash sanasi.	15
+V.7. Baholash sanasida chet el valyutalarining so‘mga nisbatan kursi.	16
+V.8. Aniqlanayotgan qiymat turi.	16
+V.9. Baholash hisoboti tuzilgan sanasi va shakli.	16
+V.10. Baholash maqsadi.	16
+V.11. Baholash natijasidan foydalanish chegarasi.	16
+V.12. Muxim va/yoki maxsus farazlar.	17
+V.13. Cheklovchi shartlar.	18
+VI. MAMLAKAT VA MINTAQADAGI BAHOLASH OB’YeKTI BILAN BOGʻLIQ UMUMIY IQTISODIY VAZIYATNING TAVSIFI.	18
+VI.1. Makroiqtisodiy vaziyat va moliyaviy omillar.	18
+VI.2. Aholi daromadlari va iste’mol qobiliyati.	19
+VII. BAHOLASH OB’YeKTI TEGISHLI BO‘LGAN TARMOQ VA BOZORNING TAVSIFI.	20
+VII.1. Bozor tendensiyalari va raqobat muhiti.	20
+VII.2. «{MODELI}» modelining qiymatga ta’sir etuvchi o‘ziga xos xususiyatlari.	20
+VIII. Baholash ob’yektining tavsifi.	21
+VIII.1. Umumiy ma’lumotlar va asosiy identifikatsiya.	21
+VIII.2. Texnik xususiyatlari va qurilmasi.	21
+VIII.3. Funksional va jismoniy eskirish tahlili.	21
+VIII.4. Mulkiy huquqlar to‘g‘risida ma’lumot.	22
+IX. BAHOLASH YONDASHUVLARI VA USULLARINING TANLANISHI VA QO‘LLANILISHI.	22
+IX.1. Umumiy qoidalar	22
+IX.2. Baholash yondashuvlarining tavsifi va qo‘llash tartibi	23
+IX.3.Qo‘llanilgan baholash yondashuvlarini tanlash yoki voz kechishni asoslash	24
+IX.4. Tanlangan yondashuv va usullarda baholash ob’yekti qiymatining hisob-kitobi
+

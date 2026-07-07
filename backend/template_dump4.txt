@@ -1,0 +1,42 @@
+Searching for Dvigatel, Kuzov, Shassi in the latest template...
+
+FOUND: Baholovchining, baholash ob’yekti mansub bo‘lgan bozor segmentining baholash sanasidagi bozor sharoitiga asoslanib amalga oshirgan tahlil va hisob-kitoblari natijasiga ko‘ra, davlat raqamli belgisi {davlat_raqami} bo‘lgan, {ishlab_chiqarilgan_yili} yilda ishlab chiqarilgan «{modeli}» rusumli avtotransport vositasining eng ehtimoliy bozor qiymati {yakuniy_narx} ({yakuniy_narx_suzlarda}) so‘mni tashkil etdi.
+FOUND: Ushbu baholash to‘g‘risidagi hisobotning maqsadi – {buyurtmachi} balansida bo‘lgan, Davlat raqamli belgisi {davlat_raqami} bo‘lgan, {ishlab_chiqarilgan_yili} yilda ishlab chiqarilgan «{modeli}» rusumli avtotransport vositasining bozor qiymatini aniqlashdan iboratdir.
+FOUND: Xronologik yosh – baholash ob’yekti ishlab chiqarilgan vaqtdan boshlab baholash sanasigacha o‘tgan vaqt (yillar) miqdori.
+FOUND: Baholash ob’yektining nomi: {buyurtmachi} balansidagi Davlat raqamli belgisi {davlat_raqami} bo‘lgan, {ishlab_chiqarilgan_yili} yilda ishlab chiqarilgan «{modeli}» rusumli avtotransport vositasi.
+FOUND: Baholashning aniq maqsadi – {buyurtmachi} balansidagi davlat raqamli belgisi {davlat_raqami} bo‘lgan, {ishlab_chiqarilgan_yili} yilda ishlab chiqarilgan «{modeli}» rusumli avtotransport vositasining baholash sanasidagi eng ehtimoliy bozor qiymatini aniqlashdan iborat.
+FOUND: Tashqi va ichki holat: Kuzovda korxona xizmatiga xos bo‘lgan kichik tirnalishlar, chiziqlar, shishalardagi kabi defektlar mavjudligi qayd etilgan. Salon elementlari, ayniqsa o‘rindiqlar, katta probeg tufayli o‘rtacha darajada eskirgan.
+FOUND: Baholash ob’yektining bozor narxini aniqlashda Internet saytlaridan olingan taklif narxlari (OLX.uz) asosiy ma’lumot manbai sifatida qabul qilindi. Transport vositasi va uning ehtiyot qismlarining narxi rusumi, modeli, ishlab chiqarilgan sanasi, yurish masofasi, komplektatsiyasi va texnik holati asosida aniqlandi.
+FOUND: Analoglar va baholash ob’yektining ishlab chiqarilgan yili bir xil va foydalanilgan muddati ham 7 yilni tashkil etgan. Shu sababli tuzatish qo‘llanilmadi (0%).
+FOUND: Barcha analoglarda kuzovdagi rang xiralashishi, dog‘lar va sezilarsiz korroziya elementlari mavjudligi qayd etilgan. Baholash ob’yektida ham shunga o‘xshash holat kuzatilganligi sababli, tuzatish qo‘llanilmadi (0%).
+FOUND: Hech bir analog bo‘yicha avariya yoki ta’mirlangan kuzov qismlari haqida ma’lumot yo‘q. Shu sababli, tuzatish 0% etib belgilandi.
+FOUND: 14. Dvigatel hajmi bo‘yicha tuzatish
+FOUND: Barcha ob’yektlar bir xil — {dvigatel_hajmi} sm³ hajmli dvigatelga ega. Shuning uchun, tuzatish 0%.
+FOUND: Tavsiflardagi tafovutlar (ishlatilgan yoki yangi holati, komplektatsiya, yoqilg‘i turi, probeg, kuzov shakli va h.k.) mavjud bo‘lganda, analog ob’yekt narxiga tegishli tuzatishlar kiritilishiga yo‘l qo‘yiladi. Agar analog ob’yekt xorijda joylashgan bo‘lsa, uning qiymatiga tashish xarajatlari, bojxona to‘lovlari va soliqlar qo‘shiladi. Agar aniq transport xarajatlarini hisoblash imkoni bo‘lmasa, transport xarajatlari sotish qiymatining 5 foizi miqdorida qabul qilinadi.
+TABLE FOUND: Davlat raqamli belgisi {davlat_raqami} bo‘lgan va {ishlab_chiqarilgan_yili} yilda ishlab chiqarilgan «{modeli}» rusumli avtotransport vositasi.
+TABLE FOUND: Ishlab chiqarilgan yili
+TABLE FOUND: Dvigatel raqami
+TABLE FOUND: {dvigatel_raqami}
+TABLE FOUND: Kuzov (VIN) raqami
+TABLE FOUND: Dvigatel hajmi
+TABLE FOUND: {dvigatel_hajmi} sm³ (1.5 litr)
+TABLE FOUND: Dvigatelning quvvati
+TABLE FOUND: {dvigatel_quvvati} ot kuchi
+TABLE FOUND: Kuzov turi
+TABLE FOUND: {a1_kuzov}
+TABLE FOUND: {a2_kuzov}
+TABLE FOUND: {a3_kuzov}
+TABLE FOUND: Ishlab chiqarilgan yili
+TABLE FOUND: kuzovda sezilarsiz korroziya elementlari
+TABLE FOUND: salon va kuzov izolyasiyasining buzilishi
+TABLE FOUND: rangni xiralashishi, dog‘lar, kuzovda sezilarsiz korroziya elementlari mavjud
+TABLE FOUND: rangni xiralashishi, dog‘lar, kuzovda sezilarsiz korroziya elementlari mavjud
+TABLE FOUND: rangni xiralashishi, dog‘lar, kuzovda sezilarsiz korroziya elementlari mavjud
+TABLE FOUND: rangni xiralashishi, dog‘lar, kuzovda sezilarsiz korroziya elementlari mavjud
+TABLE FOUND: rangni xiralashishi, dog‘lar, kuzovda sezilarsiz korroziya elementlari mavjud
+TABLE FOUND: rangni xiralashishi, dog‘lar, kuzovda sezilarsiz korroziya elementlari mavjud
+TABLE FOUND: rangni xiralashishi, dog‘lar, kuzovda sezilarsiz korroziya elementlari mavjud
+TABLE FOUND: eshiklar va kapot g‘irchillashi, salon va kuzov izolyasiyasining buzilishi mavjud
+TABLE FOUND: Dvigatel xajmi, sm3
+TABLE FOUND: Agregatlarni muntazam ta’mirlash (almashtirish), kuzovni (kabinani) ta’mirlash (tashqi bo‘yash) amalga oshirilgandan so‘ng keyingi foydalanish uchun mos holatda ishlatiladi
+TABLE FOUND: Ishlatilgan, kapital ta’mirlash yoki raqamlangan birliklarni almashtirish (dvigatel, korpus, rama), to‘liq bo‘yash

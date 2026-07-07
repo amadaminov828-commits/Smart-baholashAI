@@ -1,0 +1,245 @@
+
+--- NEW PUBLIC VERIFY CALL ---
+HOST: 127.0.0.1:8000
+PK: b329987e-e932-4581-81e5-2b76ab4085d8
+URL: http://127.0.0.1:8000/api/v1/reports/b329987e-e932-4581-81e5-2b76ab4085d8/verify/
+
+--- NEW PUBLIC VERIFY CALL ---
+HOST: 127.0.0.1:8000
+PK: b329987e-e932-4581-81e5-2b76ab4085d8
+URL: http://127.0.0.1:8000/api/v1/reports/b329987e-e932-4581-81e5-2b76ab4085d8/verify/
+
+--- NEW PUBLIC VERIFY CALL ---
+HOST: 127.0.0.1:8000
+PK: b329987e-e932-4581-81e5-2b76ab4085d8
+URL: http://127.0.0.1:8000/api/v1/reports/b329987e-e932-4581-81e5-2b76ab4085d8/verify/
+
+--- NEW PUBLIC VERIFY CALL ---
+HOST: 127.0.0.1:8000
+PK: b329987e-e932-4581-81e5-2b76ab4085d8
+URL: http://127.0.0.1:8000/api/v1/reports/b329987e-e932-4581-81e5-2b76ab4085d8/verify/
+
+--- NEW PUBLIC VERIFY CALL ---
+HOST: 127.0.0.1:8000
+PK: b329987e-e932-4581-81e5-2b76ab4085d8
+URL: http://127.0.0.1:8000/api/v1/reports/b329987e-e932-4581-81e5-2b76ab4085d8/verify/
+
+--- NEW PUBLIC VERIFY CALL ---
+HOST: 127.0.0.1:8000
+PK: b329987e-e932-4581-81e5-2b76ab4085d8
+URL: http://127.0.0.1:8000/api/v1/reports/b329987e-e932-4581-81e5-2b76ab4085d8/verify/
+
+--- NEW PUBLIC VERIFY CALL ---
+HOST: 127.0.0.1:8000
+PK: b329987e-e932-4581-81e5-2b76ab4085d8
+URL: http://127.0.0.1:8000/api/v1/reports/b329987e-e932-4581-81e5-2b76ab4085d8/verify/
+
+--- NEW PUBLIC VERIFY CALL ---
+HOST: 127.0.0.1:8000
+PK: 3a381688-7711-44a5-90d7-73ec3e58554e
+URL: http://127.0.0.1:8000/api/v1/reports/3a381688-7711-44a5-90d7-73ec3e58554e/verify/
+
+--- NEW PUBLIC VERIFY CALL ---
+HOST: 127.0.0.1:8000
+PK: 3a381688-7711-44a5-90d7-73ec3e58554e
+URL: http://127.0.0.1:8000/api/v1/reports/3a381688-7711-44a5-90d7-73ec3e58554e/verify/
+
+--- NEW PUBLIC VERIFY CALL ---
+HOST: 127.0.0.1:8000
+PK: f2728fbb-98b7-4157-b1e8-44c9a492a6a7
+URL: http://127.0.0.1:8000/api/v1/reports/f2728fbb-98b7-4157-b1e8-44c9a492a6a7/verify/
+
+--- NEW PUBLIC VERIFY CALL ---
+HOST: 127.0.0.1:8000
+PK: 2f0ce4b3-3a27-468f-bc24-2576513ed73f
+URL: http://127.0.0.1:8000/api/v1/reports/2f0ce4b3-3a27-468f-bc24-2576513ed73f/verify/
+
+--- NEW PUBLIC VERIFY CALL ---
+HOST: 127.0.0.1:8000
+PK: 2f0ce4b3-3a27-468f-bc24-2576513ed73f
+URL: http://127.0.0.1:8000/api/v1/reports/2f0ce4b3-3a27-468f-bc24-2576513ed73f/verify/
+
+--- NEW PUBLIC VERIFY CALL ---
+HOST: 127.0.0.1:8000
+PK: 0581d42a-e5db-4e25-8c30-c429ef65573f
+URL: http://127.0.0.1:8000/api/v1/reports/0581d42a-e5db-4e25-8c30-c429ef65573f/verify/
+
+--- NEW PUBLIC VERIFY CALL ---
+HOST: 127.0.0.1:8000
+PK: 0581d42a-e5db-4e25-8c30-c429ef65573f
+URL: http://127.0.0.1:8000/api/v1/reports/0581d42a-e5db-4e25-8c30-c429ef65573f/verify/
+
+--- NEW PUBLIC VERIFY CALL ---
+HOST: 127.0.0.1:8000
+PK: c1d9ec04-4da8-4731-a8de-c57522e5d962
+URL: http://127.0.0.1:8000/api/v1/reports/c1d9ec04-4da8-4731-a8de-c57522e5d962/verify/
+
+--- NEW PUBLIC VERIFY CALL ---
+HOST: 127.0.0.1:8000
+PK: 792e8fea-ab2b-4724-b747-06ab6697b656
+URL: http://127.0.0.1:8000/api/v1/reports/792e8fea-ab2b-4724-b747-06ab6697b656/verify/
+
+--- NEW PUBLIC VERIFY CALL ---
+HOST: 127.0.0.1:8000
+PK: 792e8fea-ab2b-4724-b747-06ab6697b656
+URL: http://127.0.0.1:8000/api/v1/reports/792e8fea-ab2b-4724-b747-06ab6697b656/verify/
+
+--- NEW PUBLIC VERIFY CALL ---
+HOST: 127.0.0.1:8000
+PK: 792e8fea-ab2b-4724-b747-06ab6697b656
+URL: http://127.0.0.1:8000/api/v1/reports/792e8fea-ab2b-4724-b747-06ab6697b656/verify/
+
+--- NEW PUBLIC VERIFY CALL ---
+HOST: 127.0.0.1:8000
+PK: b70f7a72-5c36-473b-82d3-f07f6cdb4083
+URL: http://127.0.0.1:8000/api/v1/reports/b70f7a72-5c36-473b-82d3-f07f6cdb4083/verify/
+
+--- NEW PUBLIC VERIFY CALL ---
+HOST: 127.0.0.1:8000
+PK: 64aa2f2b-c295-471d-9d8e-0619ae6705e0
+URL: http://127.0.0.1:8000/api/v1/reports/64aa2f2b-c295-471d-9d8e-0619ae6705e0/verify/
+
+--- NEW PUBLIC VERIFY CALL ---
+HOST: 127.0.0.1:8000
+PK: 64aa2f2b-c295-471d-9d8e-0619ae6705e0
+URL: http://127.0.0.1:8000/api/v1/reports/64aa2f2b-c295-471d-9d8e-0619ae6705e0/verify/
+
+--- NEW PUBLIC VERIFY CALL ---
+HOST: 127.0.0.1:8000
+PK: 64aa2f2b-c295-471d-9d8e-0619ae6705e0
+URL: http://127.0.0.1:8000/api/v1/reports/64aa2f2b-c295-471d-9d8e-0619ae6705e0/verify/
+
+--- NEW PUBLIC VERIFY CALL ---
+HOST: 127.0.0.1:8000
+PK: 1ded82db-f785-455f-a2e2-9664b2b622f3
+URL: http://127.0.0.1:8000/api/v1/reports/1ded82db-f785-455f-a2e2-9664b2b622f3/verify/
+
+--- NEW PUBLIC VERIFY CALL ---
+HOST: localhost:8000
+PK: 6ae80e4c-e2d8-4e11-abe7-ebad41f1f188
+URL: http://localhost:8000/api/v1/reports/6ae80e4c-e2d8-4e11-abe7-ebad41f1f188/verify/
+
+--- NEW PUBLIC VERIFY CALL ---
+HOST: localhost:8000
+PK: 3717542e-981a-465e-9127-4cd246af034d
+URL: http://localhost:8000/api/v1/reports/3717542e-981a-465e-9127-4cd246af034d/verify/
+
+--- NEW PUBLIC VERIFY CALL ---
+HOST: localhost:8000
+PK: a48cbb3e-b452-4cda-af81-b3df01506bfa
+URL: http://localhost:8000/api/v1/reports/a48cbb3e-b452-4cda-af81-b3df01506bfa/verify/
+
+--- NEW PUBLIC VERIFY CALL ---
+HOST: localhost:8000
+PK: a48cbb3e-b452-4cda-af81-b3df01506bfa
+URL: http://localhost:8000/api/v1/reports/a48cbb3e-b452-4cda-af81-b3df01506bfa/verify/
+
+--- NEW PUBLIC VERIFY CALL ---
+HOST: localhost:8000
+PK: a8ca9eae-1846-449c-aade-a4fdd14d24a3
+URL: http://localhost:8000/api/v1/reports/a8ca9eae-1846-449c-aade-a4fdd14d24a3/verify/
+
+--- NEW PUBLIC VERIFY CALL ---
+HOST: localhost:8000
+PK: a8ca9eae-1846-449c-aade-a4fdd14d24a3
+URL: http://localhost:8000/api/v1/reports/a8ca9eae-1846-449c-aade-a4fdd14d24a3/verify/
+
+--- NEW PUBLIC VERIFY CALL ---
+HOST: localhost:8000
+PK: 780b53a9-3c3c-4acf-8943-8f2b4c4126e2
+URL: http://localhost:8000/api/v1/reports/780b53a9-3c3c-4acf-8943-8f2b4c4126e2/verify/
+
+--- NEW PUBLIC VERIFY CALL ---
+HOST: localhost:8000
+PK: 780b53a9-3c3c-4acf-8943-8f2b4c4126e2
+URL: http://localhost:8000/api/v1/reports/780b53a9-3c3c-4acf-8943-8f2b4c4126e2/verify/
+
+--- NEW PUBLIC VERIFY CALL ---
+HOST: localhost:8000
+PK: 79944219-445e-45f3-b1bc-984a25c5efe1
+URL: http://localhost:8000/api/v1/reports/79944219-445e-45f3-b1bc-984a25c5efe1/verify/
+
+--- NEW PUBLIC VERIFY CALL ---
+HOST: localhost:8000
+PK: 1baa9129-6e98-4979-9c32-b6d329918af8
+URL: http://localhost:8000/api/v1/reports/1baa9129-6e98-4979-9c32-b6d329918af8/verify/
+
+--- NEW PUBLIC VERIFY CALL ---
+HOST: 127.0.0.1:8000
+PK: 801b3218ada648d3b370d802b817e2c6
+URL: http://127.0.0.1:8000/api/v1/reports/801b3218ada648d3b370d802b817e2c6/verify/
+
+--- NEW PUBLIC VERIFY CALL ---
+HOST: 127.0.0.1:8000
+PK: da8ed54f-1357-4b71-8ee8-ebb9a25a6a34
+URL: http://127.0.0.1:8000/api/v1/reports/da8ed54f-1357-4b71-8ee8-ebb9a25a6a34/verify/
+
+--- NEW PUBLIC VERIFY CALL ---
+HOST: 127.0.0.1:8000
+PK: da8ed54f-1357-4b71-8ee8-ebb9a25a6a34
+URL: http://127.0.0.1:8000/api/v1/reports/da8ed54f-1357-4b71-8ee8-ebb9a25a6a34/verify/
+
+--- NEW PUBLIC VERIFY CALL ---
+HOST: 127.0.0.1:8000
+PK: da8ed54f-1357-4b71-8ee8-ebb9a25a6a34
+URL: http://127.0.0.1:8000/api/v1/reports/da8ed54f-1357-4b71-8ee8-ebb9a25a6a34/verify/
+
+--- NEW PUBLIC VERIFY CALL ---
+HOST: 127.0.0.1:8000
+PK: fe5c7271-cd0a-4e34-83cc-fdbb615f1714
+URL: http://127.0.0.1:8000/api/v1/reports/fe5c7271-cd0a-4e34-83cc-fdbb615f1714/verify/
+
+--- NEW PUBLIC VERIFY CALL ---
+HOST: 127.0.0.1:8000
+PK: b05c1100-ea81-4df1-bcca-85f44d2fc400
+URL: http://127.0.0.1:8000/api/v1/reports/b05c1100-ea81-4df1-bcca-85f44d2fc400/verify/
+
+--- NEW PUBLIC VERIFY CALL ---
+HOST: 127.0.0.1:8000
+PK: 56ce904f-96a8-450b-8273-c6b8b60ebc04
+URL: http://127.0.0.1:8000/api/v1/reports/56ce904f-96a8-450b-8273-c6b8b60ebc04/verify/
+
+--- NEW PUBLIC VERIFY CALL ---
+HOST: 127.0.0.1:8000
+PK: 56ce904f-96a8-450b-8273-c6b8b60ebc04
+URL: http://127.0.0.1:8000/api/v1/reports/56ce904f-96a8-450b-8273-c6b8b60ebc04/verify/
+
+--- NEW PUBLIC VERIFY CALL ---
+HOST: 127.0.0.1:8000
+PK: 56ce904f-96a8-450b-8273-c6b8b60ebc04
+URL: http://127.0.0.1:8000/api/v1/reports/56ce904f-96a8-450b-8273-c6b8b60ebc04/verify/
+
+--- NEW PUBLIC VERIFY CALL ---
+HOST: 127.0.0.1:8000
+PK: 56ce904f-96a8-450b-8273-c6b8b60ebc04
+URL: http://127.0.0.1:8000/api/v1/reports/56ce904f-96a8-450b-8273-c6b8b60ebc04/verify/
+
+--- NEW PUBLIC VERIFY CALL ---
+HOST: 127.0.0.1:8000
+PK: 5aea7ef8-1c0b-43ba-ac6e-f57a016dd096
+URL: http://127.0.0.1:8000/api/v1/reports/5aea7ef8-1c0b-43ba-ac6e-f57a016dd096/verify/
+
+--- NEW PUBLIC VERIFY CALL ---
+HOST: 127.0.0.1:8000
+PK: 43508232-3ae1-48ba-834f-3d6abaa3d0ff
+URL: http://127.0.0.1:8000/api/v1/reports/43508232-3ae1-48ba-834f-3d6abaa3d0ff/verify/
+
+--- NEW PUBLIC VERIFY CALL ---
+HOST: 127.0.0.1:8000
+PK: 5a5d843b-3671-45fa-885e-f2e82c6b647e
+URL: http://127.0.0.1:8000/api/v1/reports/5a5d843b-3671-45fa-885e-f2e82c6b647e/verify/
+
+--- NEW PUBLIC VERIFY CALL ---
+HOST: 127.0.0.1:8000
+PK: 7178bbb3-a9a5-41fe-8fdf-f608b71bda1d
+URL: http://127.0.0.1:8000/api/v1/reports/7178bbb3-a9a5-41fe-8fdf-f608b71bda1d/verify/
+
+--- NEW PUBLIC VERIFY CALL ---
+HOST: 127.0.0.1:8000
+PK: 11b28a60-e392-42d8-95d8-2ffd8491518f
+URL: http://127.0.0.1:8000/api/v1/reports/11b28a60-e392-42d8-95d8-2ffd8491518f/verify/
+
+--- NEW PUBLIC VERIFY CALL ---
+HOST: 127.0.0.1:8000
+PK: 11b28a60-e392-42d8-95d8-2ffd8491518f
+URL: http://127.0.0.1:8000/api/v1/reports/11b28a60-e392-42d8-95d8-2ffd8491518f/verify/

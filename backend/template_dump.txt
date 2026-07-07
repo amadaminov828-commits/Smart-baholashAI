@@ -1,0 +1,14 @@
+Analyzing the last 3 templates...
+
+--- Template: Mening Shablonim (00:15:26) (ID: 58) ---
+Path: C:\Users\Asus\Desktop\antigravity\backend\media\templates\Professional_shablon_mashina_ty9YXOb.docx
+Tags found: {'{davlat_raqami}', '{modeli}'}
+
+--- Template: Mening Shablonim (00:03:32) (ID: 57) ---
+Path: C:\Users\Asus\Desktop\antigravity\backend\media\templates\Professional_shablon_mashina_upDmHZB.docx
+Tags found: {'{davlat_raqami}', '{modeli}'}
+
+--- Template: Mening Shablonim (23:53:13) (ID: 56) ---
+Path: C:\Users\Asus\Desktop\antigravity\backend\media\templates\Professional_shablon_mashina_pINO3BQ.docx
+Tags found: {'{davlat_raqami}', '{modeli}'}
+

@@ -1,0 +1,74 @@
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv/
+.env
+*.env
+
+# Python Cache & Compilation
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+
+# Django files
+db.sqlite3
+db.sqlite3-journal
+local_settings.py
+backend/db.sqlite3
+backend/db.sqlite3-journal
+backend/media/
+backend/reports/
+
+# Node & Next.js
+node_modules/
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+frontend/build/
+frontend/tsconfig.tsbuildinfo
+.vscode/
+.idea/
+
+# Logs and temporary files
+*.log
+backend/*.log
+frontend/*.log
+server_log.txt
+backend/server_log.txt
+cf_url.txt
+backend_error.txt
+frontend/backend_error.txt
+lt.log
+lt_err.log
+server_stderr.log
+server_stdout.log
+proxy_debug.log
+critical_error.log
+diag_results.txt
+
+# Generated reports & heavy test PDFs/DOCXs
+*.pdf
+backend/*.pdf
+*.docx
+backend/*.docx
+!backend/templates/
+# Ignore all test docx outputs, but preserve any template folder if necessary
+test_output.docx
+backend/test_output.docx
+test.docx
+backend/test.docx
+automapped_template.docx
+backend/automapped_template.docx
+clean_*.pdf
+backend/clean_*.pdf
+test_report_*.pdf
+backend/test_report_*.pdf
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini

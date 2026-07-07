@@ -1,0 +1,200 @@
+ HTTP/1.1" 200 8327
+[27/Feb/2026 15:58:20] 
+"OPTIONS /api/v1/vehicl
+es/valuations/123/gener
+ate-report/ HTTP/1.1" 2
+00 0
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 27, 2026 - 15:54:22
+Django version 6.0.2, using settings 'valuation_platform.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CTRL-BREAK.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/6.0/howto/deployment/
+Sending request to gemini-2.5-flash (New SDK)...
+Response: {
+  "owner_name": "Nematov Yasanxo'ja Akramxo'ja O'g'li",
+  "passport_serial": "AB2143706",
+  "passp...
+OCR Successful.
+Sending request to gemini-2.5-flash (New SDK)...
+Response: {
+  "owner_name": "Nematov Xasan O'g'li",
+  "passport_serial": "AV09013",
+  "passport_type": "ID-kar...
+OCR Successful.
+Searching analogs for Tracker 2 TRK LTZ (2020) at rate 12136.57
+DEBUG: Starting report generation for valuation 123
+DEBUG: Fetching catalogs and preparing analogs...
+DEBUG: Generating CP tags...
+DEBUG: CP tags generated.
+DEBUG: Fetching AI analyses...
+DEBUG: Calling Gemini for Tracker 2 TRK LTZ...
+DEBUG: AI analyses completed in 42.88s
+DEBUG: Using template: C:\Users\Asus\Desktop\antigravity\backend\media\templates\Professional_shablon_mashina_7cRsYGC.docx (ID: 76)
+DEBUG: Docx generated at 339.89s
+DEBUG: Converting to PDF with timeout...
+
+  0%|          | 0/1 [0
+0:00<?, ?it/s]
+100%|##########| 1/1 [0
+0:04<00:00,  4.77s/it]
+100%|##########| 1/1 [0
+0:04<00:00,  4.77s/it]
+C:\Users\Asus\Desktop\a
+ntigravity\backend\venv
+\Lib\site-packages\PyPD
+F2\_writer.py:886: User
+Warning: Please use 'us
+er_password' instead of
+ 'user_pwd'. The 'user_
+pwd' argument is deprec
+ated and will be remove
+d in PyPDF2 4.0.0.
+  warnings.warn(
+[27/Feb/2026 16:04:13] 
+"POST /api/v1/vehicles/
+valuations/123/generate
+-report/ HTTP/1.1" 200 
+575
+[27/Feb/2026 16:04:14] 
+"GET /media/qrcodes/qr_
+cbdbc36d-2585-4c6d-b540
+-05cc374107e6.png?v=177
+2197453&ts=177219745363
+5 HTTP/1.1" 200 595
+[27/Feb/2026 16:07:13] 
+"GET /media/tmp/81da36d
+31408/report_123.docx?v
+=1772197453&ts=17721974
+53635 HTTP/1.1" 200 669
+016
+C:\Users\Asus\Desktop\a
+ntigravity\backend\vehi
+cles\ocr.py changed, re
+loading.
+DEBUG: PDF converted at 348.26s
+Watching for file chang
+es with StatReloader
+C:\Users\Asus\Desktop\a
+ntigravity\backend\venv
+\Lib\site-packages\requ
+ests\__init__.py:113: R
+equestsDependencyWarnin
+g: urllib3 (2.6.3) or c
+hardet (6.0.0.post1)/ch
+arset_normalizer (3.4.4
+) doesn't match a suppo
+rted version!
+  warnings.warn(
+C:\Users\Asus\Desktop\a
+ntigravity\backend\vehi
+cles\views.py changed, 
+reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 27, 2026 - 16:23:06
+Django version 6.0.2, using settings 'valuation_platform.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CTRL-BREAK.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/6.0/howto/deployment/
+Watching for file chang
+es with StatReloader
+C:\Users\Asus\Desktop\a
+ntigravity\backend\venv
+\Lib\site-packages\requ
+ests\__init__.py:113: R
+equestsDependencyWarnin
+g: urllib3 (2.6.3) or c
+hardet (6.0.0.post1)/ch
+arset_normalizer (3.4.4
+) doesn't match a suppo
+rted version!
+  warnings.warn(
+C:\Users\Asus\Desktop\a
+ntigravity\backend\vehi
+cles\views.py changed, 
+reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 27, 2026 - 16:25:40
+Django version 6.0.2, using settings 'valuation_platform.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CTRL-BREAK.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/6.0/howto/deployment/
+Watching for file chang
+es with StatReloader
+C:\Users\Asus\Desktop\a
+ntigravity\backend\venv
+\Lib\site-packages\requ
+ests\__init__.py:113: R
+equestsDependencyWarnin
+g: urllib3 (2.6.3) or c
+hardet (6.0.0.post1)/ch
+arset_normalizer (3.4.4
+) doesn't match a suppo
+rted version!
+  warnings.warn(
+C:\Users\Asus\Desktop\a
+ntigravity\backend\vehi
+cles\views.py changed, 
+reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 27, 2026 - 16:26:25
+Django version 6.0.2, using settings 'valuation_platform.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CTRL-BREAK.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/6.0/howto/deployment/
+Watching for file chang
+es with StatReloader
+C:\Users\Asus\Desktop\a
+ntigravity\backend\venv
+\Lib\site-packages\requ
+ests\__init__.py:113: R
+equestsDependencyWarnin
+g: urllib3 (2.6.3) or c
+hardet (6.0.0.post1)/ch
+arset_normalizer (3.4.4
+) doesn't match a suppo
+rted version!
+  warnings.warn(
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 27, 2026 - 16:27:24
+Django version 6.0.2, using settings 'valuation_platform.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CTRL-BREAK.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/6.0/howto/deployment/
+C:\Users\Asus\Desktop\a
+ntigravity\backend\vehi
+cles\scraper.py changed
+, reloading.
+Watching for file chang
+es with StatReloader
+C:\Users\Asus\Desktop\a
+ntigravity\backend\venv
+\Lib\site-packages\requ
+ests\__init__.py:113: R
+equestsDependencyWarnin
+g: urllib3 (2.6.3) or c
+hardet (6.0.0.post1)/ch
+arset_normalizer (3.4.4
+) doesn't match a suppo
+rted version!
+  warnings.warn(
